@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B722xxS
+D Варистор
+K varistor
+F W:/PDF/B722xxS.PDF
+$ENDCMP
+#
+$CMP Resistor
+D Резистор постоянный
+K resistor
+$ENDCMP
+#
+$CMP ВР-9
+D Варистор
+K varistor
+F W:/PDF/ВР-9.PDF
+$ENDCMP
+#
+$CMP Р1-150
+D Резистор постоянный
+K resistor
+F W:/PDF/Р1-150.pdf
+$ENDCMP
+#
+$CMP С2-33-0,125
+D Резистор постоянный
+K resistor
+F W:/PDF/С2-33.pdf
+$ENDCMP
+#
+$CMP С2-33-0,5
+D Резистор постоянный
+K resistor
+F W:/PDF/С2-33.pdf
+$ENDCMP
+#
+#End Doc Library

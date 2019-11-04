@@ -1,0 +1,152 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# B722xxS
+#
+DEF B722xxS R 0 40 N N 1 F N
+F0 "R" 0 200 100 H V C CNN
+F1 "B722xxS" 0 -200 100 H V C CNN
+F2 "" -500 200 100 H I C CNN
+F3 "" 0 -400 100 H I C CNN
+F4 "B722xxS0xxxK101" 0 -400 50 H I C CNN "PartNumber"
+F5 "Epcos" -250 -300 50 H I C CNN "Fabricator"
+F6 "Варистор" 0 400 50 H I C CNN "Марка"
+F7 "${Fabricator}" 150 -300 50 H I C CNN "Примечание"
+F8 "Резисторы" 0 300 50 H I C CNN "Группа"
+DRAW
+S 196 -78 -196 78 0 1 0 N
+P 4 0 1 0 -250 150 -150 150 150 -150 250 -150 N
+X 1 1 -300 0 104 R 100 100 1 1 P
+X 2 2 300 0 104 L 100 100 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Resistor
+#
+DEF Resistor R 0 40 N N 1 F N
+F0 "R" 0 200 100 H V C CNN
+F1 "Resistor" 0 -200 100 H V C CNN
+F2 "" -500 200 50 H I C CNN
+F3 "" 0 -400 50 H I C CNN
+F4 "mfg" -200 200 50 H I C CNN "Fabricator"
+F5 "pn" 200 200 50 H I C CNN "Part Number"
+F6 "${Footprint}" 0 -400 50 H I C CNN "Тип"
+F7 "Чип резистор" 0 400 50 H I C CNN "Марка"
+F8 "${Fabricator}" 0 -300 50 H I C CNN "Примечание"
+F9 "Резисторы" 0 300 50 H I C CNN "Группа"
+$FPLIST
+ 0603
+ 0805
+ 1206
+ 1210
+ 2010
+ 2512
+$ENDFPLIST
+DRAW
+S 196 -78 -196 78 0 1 0 N
+X 1 1 -300 0 104 R 100 100 1 1 P
+X 2 2 300 0 104 L 100 100 1 1 P
+ENDDRAW
+ENDDEF
+#
+# ВР-9
+#
+DEF ВР-9 R 0 40 N N 1 F N
+F0 "R" 0 200 100 H V C CNN
+F1 "ВР-9" 0 -200 100 H V C CNN
+F2 "" -500 200 100 H I C CNN
+F3 "" 0 -400 100 H I C CNN
+F4 " " 0 -400 50 H I C CNN "PartNumber"
+F5 "АО \"НИИ \"ГИРИКОНД\"" -250 -300 50 H I C CNN "Fabricator"
+F6 "Варистор ВР-9" 0 400 50 H I C CNN "Марка"
+F7 "${Fabricator}" 150 -300 50 H I C CNN "Примечание"
+F8 "Резисторы" 0 300 50 H I C CNN "Группа"
+DRAW
+S 196 -78 -196 78 0 1 0 N
+P 4 0 1 0 -250 150 -150 150 150 -150 250 -150 N
+X 1 1 -300 0 104 R 100 100 1 1 P
+X 2 2 300 0 104 L 100 100 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Р1-150
+#
+DEF Р1-150 R 0 40 N N 1 F N
+F0 "R" 0 200 100 H V C CNN
+F1 "Р1-150" 0 -200 100 H V C CNN
+F2 "Footprint:TO-220_2pin" 0 -400 50 H I C CNN
+F3 "" 0 -400 100 H I C CNN
+F4 "АО \"НПО \"ЭРКОН\"" 0 200 50 H I C CNN "Fabricator"
+F5 "Резистор Р1-150" 0 400 50 H I C CNN "Марка"
+F6 "${Fabricator}" 0 -300 50 H I C CNN "Примечание"
+F7 "Резисторы" 0 300 50 H I C CNN "Группа"
+$FPLIST
+ 0603
+ 0805
+ 1206
+ 1210
+ 2010
+ 2512
+$ENDFPLIST
+DRAW
+S 196 -78 -196 78 0 1 0 N
+X 1 1 -300 0 104 R 100 100 1 1 P
+X 2 2 300 0 104 L 100 100 1 1 P
+ENDDRAW
+ENDDEF
+#
+# С2-33-0,125
+#
+DEF С2-33-0,125 R 0 40 N N 1 F N
+F0 "R" 0 200 100 H V C CNN
+F1 "С2-33-0,125" 0 -200 100 H V C CNN
+F2 "" -500 200 100 H I C CNN
+F3 "" 0 -400 100 H I C CNN
+F4 "АО \"НПО \"ЭРКОН\"" -200 200 50 H I C CNN "Fabricator"
+F5 "${Footprint}" 0 -400 50 H I C CNN "Тип"
+F6 "Резистор С2-33-0,125" 0 400 50 H I C CNN "Марка"
+F7 "${Fabricator}" 0 -300 50 H I C CNN "Примечание"
+F8 "Резисторы" 0 300 50 H I C CNN "Группа"
+$FPLIST
+ 0603
+ 0805
+ 1206
+ 1210
+ 2010
+ 2512
+$ENDFPLIST
+DRAW
+S 196 -78 -196 78 0 1 0 N
+X 1 1 -300 0 104 R 100 100 1 1 P
+X 2 2 300 0 104 L 100 100 1 1 P
+ENDDRAW
+ENDDEF
+#
+# С2-33-0,5
+#
+DEF С2-33-0,5 R 0 40 N N 1 F N
+F0 "R" 0 200 100 H V C CNN
+F1 "С2-33-0,5" 0 -200 100 H V C CNN
+F2 "" -500 200 100 H I C CNN
+F3 "" 0 -400 100 H I C CNN
+F4 "АО \"НПО \"ЭРКОН\"" -200 200 50 H I C CNN "Fabricator"
+F5 "${Footprint}" 0 -400 50 H I C CNN "Тип"
+F6 "Резистор С2-33-0,5" 0 400 50 H I C CNN "Марка"
+F7 "${Fabricator}" 0 -300 50 H I C CNN "Примечание"
+F8 "Резисторы" 0 300 50 H I C CNN "Группа"
+$FPLIST
+ 0603
+ 0805
+ 1206
+ 1210
+ 2010
+ 2512
+$ENDFPLIST
+DRAW
+S 196 -78 -196 78 0 1 0 N
+X 1 1 -300 0 104 R 100 100 1 1 P
+X 2 2 300 0 104 L 100 100 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
