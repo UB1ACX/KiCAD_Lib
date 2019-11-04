@@ -1,0 +1,49 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C-AL-EXV
+D Конденсатор постоянный электролитический
+K capacitor, SMD
+F W:/PDF/EXV.PDF
+$ENDCMP
+#
+$CMP C-TANTAL-293D
+D Конденсатор постоянный электролитический
+K capacitor
+F W:/PDF/293D.pdf
+$ENDCMP
+#
+$CMP Capacitor
+D Конденсатор постоянный
+K capacitor
+$ENDCMP
+#
+$CMP Capacitor_el
+D Конденсатор постоянный электролитический
+K capacitor
+$ENDCMP
+#
+$CMP К10-67
+D Конденсатор постоянный керамический
+K capacitor
+F W:/PDF/К10-67.pdf
+$ENDCMP
+#
+$CMP К52-18
+D Конденсатор постоянный электролитический
+K capacitor
+F W:/PDF/К52-18.pdf
+$ENDCMP
+#
+$CMP К73-17
+D Конденсатор постоянный пленочный
+K capacitor
+F W:/PDF/К73-17.pdf
+$ENDCMP
+#
+$CMP К78-53
+D Конденсатор помехоподавляющий
+K capacitor
+F W:/PDF/К78-53.pdf
+$ENDCMP
+#
+#End Doc Library

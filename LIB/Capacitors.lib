@@ -1,0 +1,178 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# C-AL-EXV
+#
+DEF C-AL-EXV C 0 0 N N 1 F N
+F0 "C" 300 100 100 H V C CNN
+F1 "C-AL-EXV" 300 -100 100 H V C CNN
+F2 "Footprint:EXV-9P" 0 -300 50 H I C CNN
+F3 "file://W:/PDF/EXV.PDF" 0 -200 50 H I C CNN
+F4 "${Part Number} ${Fabricator}" 0 -550 50 H I C CNN "Примечание"
+F5 "Конденсаторы" 0 300 50 H I C CNN "Группа"
+F6 "ЧИП конденсатор электролитический" 0 200 50 H I C CNN "Марка"
+F7 "KEMET" -300 100 50 H I C CNN "Fabricator"
+F8 "EXVxxxMxxxAxxAA" 0 -400 50 H I C CNN "Part Number"
+$FPLIST
+ EXV-9P
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -150 -30 150 -30 N
+P 2 0 1 0 -150 30 150 30 N
+P 2 0 1 0 -105 135 -55 135 N
+P 2 0 1 0 -80 110 -80 160 N
+P 4 0 1 0 -150 35 -150 60 150 60 150 35 N
+X 1 1 0 -200 170 U 100 100 1 1 P
+X 2 2 0 200 140 D 100 100 1 1 P
+ENDDRAW
+ENDDEF
+#
+# C-TANTAL-293D
+#
+DEF C-TANTAL-293D C 0 0 N N 1 F N
+F0 "C" 300 100 100 H V C CNN
+F1 "C-TANTAL-293D" 400 -100 100 H V C CNN
+F2 "" -300 -100 50 H I C CNN
+F3 "file://W:/PDF/293D.pdf" 0 -300 50 H I C CNN
+F4 "Конденсаторы" 0 400 50 H I C CNN "Группа"
+F5 "ЧИП конденсатор танталовый" 0 300 50 H I C CNN "Марка"
+F6 "Vishay" -300 100 50 H I C CNN "Fabricator"
+F7 "293DxxxX9xxxy2WE3" 0 -400 50 H I C CNN "Part Number"
+$FPLIST
+ C-SMD-A
+ C-SMD-B
+ C-SMD-C
+ C-SMD-D
+ C-SMD-E
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -150 -30 150 -30 N
+P 2 0 1 0 -150 30 150 30 N
+P 2 0 1 0 -105 135 -55 135 N
+P 2 0 1 0 -80 110 -80 160 N
+P 4 0 1 0 -150 35 -150 60 150 60 150 35 N
+X 1 1 0 -200 170 U 100 100 1 1 P
+X 2 2 0 200 140 D 100 100 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Capacitor
+#
+DEF Capacitor C 0 0 N N 1 F N
+F0 "C" 400 100 100 H V C CNN
+F1 "Capacitor" 500 -100 100 H V C CNN
+F2 "Footprint" 0 0 50 H I C CNN
+F3 "" -300 -100 50 H I C CNN
+F4 "mfg" -300 -200 50 H I C CNN "Fabricator"
+F5 "pn" -300 100 50 H I C CNN "Part Number"
+F6 "${Fabricator}" -300 -100 50 H I C CNN "Примечание"
+F7 "Конденсаторы" -300 200 50 H I C CNN "Группа"
+DRAW
+P 2 0 1 0 -158 -30 158 -30 N
+P 2 0 1 0 -158 30 158 30 N
+X 1 1 0 200 170 D 100 100 1 1 P
+X 2 2 0 -200 170 U 100 100 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Capacitor_el
+#
+DEF Capacitor_el C 0 0 N N 1 F N
+F0 "C" 0 300 100 H V C CNN
+F1 "Capacitor_el" 0 -300 100 H V C CNN
+F2 "" -100 200 50 H V C CNN
+F3 "" 0 200 50 H V C CNN
+F4 "${Fabricator}" -300 -100 50 H I C CNN "Примечание"
+F5 "Конденсаторы" 400 200 50 H I C CNN "Группа"
+F6 "pn" -200 200 50 H I C CNN "Part Number"
+F7 "?" 200 -100 50 H I C CNN "Fabricator"
+DRAW
+P 2 0 1 0 -30 150 -30 -150 N
+P 2 0 1 0 30 150 30 -150 N
+P 2 0 1 0 110 80 160 80 N
+P 2 0 1 0 135 105 135 55 N
+P 4 0 1 0 35 150 60 150 60 -150 35 -150 N
+X 1 1 -200 0 170 R 100 100 1 1 P
+X 2 2 200 0 140 L 100 100 1 1 P
+ENDDRAW
+ENDDEF
+#
+# К10-67
+#
+DEF К10-67 C 0 0 N N 1 F N
+F0 "C" 400 100 100 H V C CNN
+F1 "К10-67" 500 -100 100 H V C CNN
+F2 "Footprint" 0 0 50 H I C CNN
+F3 "" -300 -100 50 H I C CNN
+F4 "АО \"НИИ \"ГИРИКОНД\"" -300 -200 50 H I C CNN "Fabricator"
+F5 "${Fabricator}" -300 -100 50 H I C CNN "Примечание"
+F6 "Конденсаторы" -300 200 50 H I C CNN "Группа"
+$FPLIST
+ К10-67
+$ENDFPLIST
+DRAW
+P 2 0 1 0 -158 -30 158 -30 N
+P 2 0 1 0 -158 30 158 30 N
+X 1 1 0 200 170 D 100 100 1 1 P
+X 2 2 0 -200 170 U 100 100 1 1 P
+ENDDRAW
+ENDDEF
+#
+# К52-18
+#
+DEF К52-18 C 0 0 N N 1 F N
+F0 "C" 0 300 100 H V C CNN
+F1 "К52-18" 0 -300 100 H V C CNN
+F2 "" -100 200 50 H I C CNN
+F3 "" 0 200 50 H I C CNN
+F4 "${Fabricator}" -300 -100 50 H I C CNN "Примечание"
+F5 "Конденсаторы" 400 200 50 H I C CNN "Группа"
+F6 "ОАО \"Элеконд\"" 400 -100 50 H I C CNN "Fabricator"
+DRAW
+P 2 0 1 0 -30 150 -30 -150 N
+P 2 0 1 0 30 150 30 -150 N
+P 2 0 1 0 110 80 160 80 N
+P 2 0 1 0 135 105 135 55 N
+P 4 0 1 0 35 150 60 150 60 -150 35 -150 N
+X 1 1 -200 0 170 R 100 100 1 1 P
+X 2 2 200 0 140 L 100 100 1 1 P
+ENDDRAW
+ENDDEF
+#
+# К73-17
+#
+DEF К73-17 C 0 0 N N 1 F N
+F0 "C" 400 100 100 H V C CNN
+F1 "К73-17" 500 -100 100 H V C CNN
+F2 "Footprint" 0 0 50 H I C CNN
+F3 "" -300 -100 50 H I C CNN
+F4 "АО \"НИИ \"ГИРИКОНД\"" -300 -200 50 H I C CNN "Fabricator"
+F5 "${Fabricator}" -300 -100 50 H I C CNN "Примечание"
+F6 "Конденсаторы" -300 200 50 H I C CNN "Группа"
+DRAW
+P 2 0 1 0 -158 -30 158 -30 N
+P 2 0 1 0 -158 30 158 30 N
+X 1 1 0 200 170 D 100 100 1 1 P
+X 2 2 0 -200 170 U 100 100 1 1 P
+ENDDRAW
+ENDDEF
+#
+# К78-53
+#
+DEF К78-53 C 0 0 N N 1 F N
+F0 "C" 400 100 100 H V C CNN
+F1 "К78-53" 500 -100 100 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" -300 -100 50 H I C CNN
+F4 "АО \"НИИ \"ГИРИКОНД\"" -300 -200 50 H I C CNN "Fabricator"
+F5 "${Fabricator}" -300 -100 50 H I C CNN "Примечание"
+F6 "Конденсаторы" -300 200 50 H I C CNN "Группа"
+DRAW
+P 2 0 1 0 -158 -30 158 -30 N
+P 2 0 1 0 -158 30 158 30 N
+X 1 1 0 200 170 D 100 100 1 1 P
+X 2 2 0 -200 170 U 100 100 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
