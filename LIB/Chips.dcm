@@ -1,0 +1,384 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74LVC1G123xx
+D Одновибратор
+K monostable multivibrator
+F W:/PDF/74LVC1G123.pdf
+$ENDCMP
+#
+$CMP 74LVC1G14xx
+D Single inverting Schmitt trigger
+K trigger schmitt
+F W:/PDF/74LVC1G14.pdf
+$ENDCMP
+#
+$CMP 74LVC2G00xx
+D Dual NAND gate
+K AND
+F W:\PDF\74LVC2G00.pdf
+$ENDCMP
+#
+$CMP 74LVC2G07xx
+D Dual buffers with open-drain output
+F W:/PDF/74LVC2G07.pdf
+$ENDCMP
+#
+$CMP 74LVC2G08xx
+D Dual AND gate
+K AND
+F W:\PDF\74LVC2G08.pdf
+$ENDCMP
+#
+$CMP 74LVC2G14
+D Dual inverting Schmitt trigger
+F W:/PDF/74LVC2G14.pdf
+$ENDCMP
+#
+$CMP 74LVC2G3157
+D Dual SPDT analog switch
+K multiplexer demultiplexer
+F W:/PDF/74LVC2G3157.pdf
+$ENDCMP
+#
+$CMP 74LVC2G32xx
+D Dual 2-input OR gate
+K AND
+F W:/PDF/74LVC2G32.pdf
+$ENDCMP
+#
+$CMP AD8542ARZ
+D Операционный усилитель R2R-IO
+K ОУ, OpAmp
+F W:/PDF/AD8541_2_4.pdf
+$ENDCMP
+#
+$CMP AD8606AR
+D Операционный усилитель R2R-IO
+K ОУ, OpAmp
+F W:/PDF/AD8541_2_4.pdf
+$ENDCMP
+#
+$CMP ADUM1401xRW
+D Quad-channel digital isolator
+F W:/PDF/ADuM140x.PDF
+$ENDCMP
+#
+$CMP ADUM1402xRW
+D Quad-channel digital isolator
+F W:/PDF/ADuM140x.PDF
+$ENDCMP
+#
+$CMP ADUM142ExBRxZ
+D Quad-channel (2IN/2OUT) digital isolator
+F W:/PDF/ADuM14xx.PDF
+$ENDCMP
+#
+$CMP AT24C0xB
+D Serial EEPROM (I2C)
+F W:/PDF/AT24C01D-02D.pdf
+$ENDCMP
+#
+$CMP AT24C0xD-ST
+D Serial EEPROM (I2C)
+F W:/PDF/AT24C01D-02D.pdf
+$ENDCMP
+#
+$CMP DS2484R+T
+D Трансивер шины 1-wire
+F W:/PDF/DS2484.pdf
+$ENDCMP
+#
+$CMP FIN3386MTDX
+D Converter RGB24 to HDMI
+K DVI
+F W:/PDF/FIN3385.pdf
+$ENDCMP
+#
+$CMP ISO1541D
+D Bidirectional I2C isolator
+F W:/PDF/ISO1541.pdf
+$ENDCMP
+#
+$CMP IW4013Bx
+D Два D-триггера
+K D-triggers
+F W:/PDF/IW4013B.pdf
+$ENDCMP
+#
+$CMP IW4017Bx
+D Двоично-десятичный счетчик
+K BCD counter
+F W:/PDF/IW4017B.pdf
+$ENDCMP
+#
+$CMP IW4093B
+D 2И-НЕ с триггером Шмидта
+K 2NAND
+F W:/PDF/IW4093B.pdf
+$ENDCMP
+#
+$CMP KSZ8081RNA
+D Микросхема EtherNet 100 Mbit/s интерфейса
+K PHY, EtherNet
+F W:/PDF/KSZ8081RNA_D.PDF
+$ENDCMP
+#
+$CMP KSZ8795CLXx
+D Микросхема EtherNet 100 Mbit/s интерфейса
+K PHY, EtherNet, Switch
+F W:/PDF/KSZ8795CLX.PDF
+$ENDCMP
+#
+$CMP KSZ8863RLL
+D Микросхема EtherNet 100 Mbit/s интерфейса
+K PHY, EtherNet, Switch
+F W:/PDF/KSZ8863.pdf
+$ENDCMP
+#
+$CMP L6562Ax
+D PFC Controller
+F W:/PDF/L6562A.pdf
+$ENDCMP
+#
+$CMP LD1117ASxxTR
+D Линейный стабилизатор
+K 317, 1117
+F W:/PDF/LD1117A.PDF
+$ENDCMP
+#
+$CMP LM317M
+D Линейный стабилизатор
+K 317
+F W:\PDF\LM317M.PDF
+$ENDCMP
+#
+$CMP LM46002
+D DC/DC Sync buck converter
+K DCDC buck
+F W:/PDF/LM46002.pdf
+$ENDCMP
+#
+$CMP LM5050MK-2
+D OR-ing контроллер
+F W:/PDF/LM5050-2.pdf
+$ENDCMP
+#
+$CMP LM5069MM
+D Hotswap controller
+K hot swap inrush
+F W:/PDF/LM5069.pdf
+$ENDCMP
+#
+$CMP LNK364PN
+D Off-line контроллер
+K Flyback
+F W:/PDF/LNK362-364.pdf
+$ENDCMP
+#
+$CMP LT1013xx
+D Операционный усилитель
+K ОУ, OpAmp
+F W:/PDF/LT1013.PDF
+$ENDCMP
+#
+$CMP LTC2872xUHF#PBF
+D 2-х канальный драйвер RS-232/422/485
+K UART
+F W:/PDF/LTC2872.pdf
+$ENDCMP
+#
+$CMP MC33972ATEK_R2
+D Расширитель портов ВВ
+K I/O expander
+F W:\PDF\MC33972.pdf
+$ENDCMP
+#
+$CMP MCP6072-x_xx
+D Операционный усилитель
+K ОУ, OpAmp, MCP6072
+F W:\PDF\MCP6071_2_4.PDF
+$ENDCMP
+#
+$CMP MIC2128YML
+D Микросхема DC/DC преобразователя
+F W:/PDF/MIC2128.pdf
+$ENDCMP
+#
+$CMP MT25QL128ABA1EW7
+D Микросхема NOR памяти
+K flash 128Mb QuadSPI QSPI
+F W:/PDF/MT25QL128ABA.pdf
+$ENDCMP
+#
+$CMP MT25QU256ABA1EW7
+D Микросхема NOR памяти
+K flash 256Mb QuadSPI QSPI
+F W:/PDF/MT25QU2568ABA.pdf
+$ENDCMP
+#
+$CMP MT48LC4M32TG+P
+D Микросхема динамической памяти
+K SDRAM
+F W:\PDF\MT48LC4M32.pdf
+$ENDCMP
+#
+$CMP NAND128W3A
+D NAND SLC 128Mbit flash memory
+K NAND, SLC, 128M
+F W:\PDF\NAND128W3A.PDF
+$ENDCMP
+#
+$CMP NCP114A
+D Линейный стабилизатор
+K LDO
+F W:/PDF/NCP114A.pdf
+$ENDCMP
+#
+$CMP NCV1117
+D Линейный стабилизатор
+K LDO, 1117
+F W:\PDF\NCP1117.PDF
+$ENDCMP
+#
+$CMP NCV7240DPR2G
+D 8 low-side relay driver
+K driver, relay
+F W:\PDF\NCV7240.pdf
+$ENDCMP
+#
+$CMP PCA9306Dxx
+D I2C level translator
+K SMBus NVT2002
+F W:/PDF/PCA9306.pdf
+$ENDCMP
+#
+$CMP SN65176BD
+D Трансивер шины RS-485
+K RS-485
+F W:/PDF/SN65176B.PDF
+$ENDCMP
+#
+$CMP SN65C3232xx
+D Трансивер шины RS-232
+K RS-232
+F W:/PDF/SN65C3232.PDF
+$ENDCMP
+#
+$CMP SN65HVD75
+D Трансивер шины RS-485
+K RS-485
+F W:\PDF\SN65HVD75.PDF
+$ENDCMP
+#
+$CMP SN74LVC2G14
+D Dual inverting Schmitt trigger
+F W:/PDF/SN74LVC2G14.pdf
+$ENDCMP
+#
+$CMP STM32F042CxT
+D Микроконтроллер STM32F042CxT
+K ARM, STM32, F0
+F W:\PDF\STM32F042x4_6__DS.PDF
+$ENDCMP
+#
+$CMP STM32F746BxTx
+D Микроконтроллер
+K ARM, 32bit, stm32, F7
+F W:\PDF\STM32F745_746 DS.PDF
+$ENDCMP
+#
+$CMP STM32H743VxT
+D Микроконтроллер
+K ARM, 32bit, stm32, H7, Cortex-M7
+F W:/PDF/STM32H743_DS.pdf
+$ENDCMP
+#
+$CMP Si4713-B30-GM
+D FM radio transmitter
+K RDS
+F W:/PDF/Si4712-13.pdf
+$ENDCMP
+#
+$CMP SiI3132CNU
+D Bridge PCIe to SATA
+F W:/PDF/SiI3132.pdf
+$ENDCMP
+#
+$CMP TC4428Axx
+D MOSFER driver
+F W:/PDF/TC442xAxx.PDF
+$ENDCMP
+#
+$CMP TCA6416ARTWR
+D I2C 16-bit I/O expander
+F W:/PDF/TCA6416A.pdf
+$ENDCMP
+#
+$CMP TCAN337D
+D Трансивер шины CAN
+F W:/PDF/TCAN33x.pdf
+$ENDCMP
+#
+$CMP TFP410PAP
+D Converter RGB24 to HDMI
+K DVI
+F W:\PDF\TFP410.pdf
+$ENDCMP
+#
+$CMP TL072xx
+D Операционный усилитель
+K ОУ, OpAmp, MCP6072
+F W:/PDF/TL072.PDF
+$ENDCMP
+#
+$CMP TPD12S521DBTR
+D  HDMI port protection
+K DVI
+F W:/PDF/TPD12S521.pdf
+$ENDCMP
+#
+$CMP TPS2051Bxx
+D Power distribution switch
+K USB, switch
+F W:\PDF\TPS20xxB.pdf
+$ENDCMP
+#
+$CMP TPS563201DDC
+D Микросхема DC/DC преобразователя
+F W:/PDF/TPS563201_8.pdf
+$ENDCMP
+#
+$CMP TUSB2046Bxx
+D 4-port USB hub
+K usb, hub
+F W:\PDF\TUSB2046B.pdf
+$ENDCMP
+#
+$CMP TXS0104E
+D Quad-channel autodirectional level translator
+F W:/PDF/TXS0104E.pdf
+$ENDCMP
+#
+$CMP UC2845BD1
+D PWM Controller
+K DC/DC
+F W:/PDF/UC384xB.PDF
+$ENDCMP
+#
+$CMP UCC28600D
+D Quasi-Resonant Flyback Controller
+K Flyback, QR, DC/DC
+F W:/PDF/UCC28600.PDF
+$ENDCMP
+#
+$CMP UCC29002x
+D Current Share Controller
+F W:/PDF/UCC39002_DS.pdf
+$ENDCMP
+#
+$CMP КР142ЕН12
+D Регулируемый стабилизатор напряжения
+K LM317
+$ENDCMP
+#
+#End Doc Library
