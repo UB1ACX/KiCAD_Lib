@@ -1,0 +1,118 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B82722A2xxxN0xx
+D Common mode choke
+K Coil, Inductor, common, choke, EMI
+F W:/PDF/B82722A.PDF
+$ENDCMP
+#
+$CMP B82725A2xxxN0xx
+D Common mode choke
+K Coil, Inductor, common, choke, EMI
+F W:/PDF/B82725A.PDF
+$ENDCMP
+#
+$CMP B82789C0xxxN00x
+D Common mode choke
+K Coil, Inductor, common, choke, EMI
+F W:/PDF/B82790.pdf
+$ENDCMP
+#
+$CMP B82790C0xxxN2xx
+D Common mode choke
+K Coil, Inductor, common, choke, EMI
+F W:/PDF/B82790.pdf
+$ENDCMP
+#
+$CMP B82801CxxxxAxxx
+D Трансформатор тока
+K TT
+F W:/PDF/B82801C.PDF
+$ENDCMP
+#
+$CMP BLM41PG
+D Индуктор
+K Coil, Inductor, EMI filter
+F W:/PDF/BLM41P.pdf
+$ENDCMP
+#
+$CMP DLW21HN900HQ2
+D Common mode choke
+K Coil, Inductor, common, choke, EMI
+F W:/PDF/DLW21HN900HQ2.PDF
+$ENDCMP
+#
+$CMP Inductor
+D Индуктор
+K Coil, Inductor
+$ENDCMP
+#
+$CMP LQH32CN
+D Индуктор
+F W:/PDF/LQH32CN.pdf
+$ENDCMP
+#
+$CMP LQM21FN
+D Индуктор
+F W:/PDF/LQM21F.pdf
+$ENDCMP
+#
+$CMP PNY-07006
+D Трансформатор для Off-line контроллера
+K Flyback
+F W:/PDF/PNY-07006.pdf
+$ENDCMP
+#
+$CMP SDR1006
+D Индуктор
+K Coil Inductor
+F W:/PDF/SDR1006.pdf
+$ENDCMP
+#
+$CMP SRP1038A
+D Индуктор
+K Coil Inductor
+F W:/PDF/SRP1038A.pdf
+$ENDCMP
+#
+$CMP SRP4020TA
+D Индуктор
+K Coil Inductor
+F W:/PDF/SRP4020TA.pdf
+$ENDCMP
+#
+$CMP АСЕТ.671342.006
+D Трансформатор для блока МП5
+K Flyback, EFD
+F W:/PDF/EFD20.pdf
+$ENDCMP
+#
+$CMP АСЕТ.671342.007
+D Индуктор PFC (ВВП7)
+$ENDCMP
+#
+$CMP АСЕТ.671342.008
+D Трансформатор DC/DC Forward (ВВП7)
+K Flyback, ETD
+F W:/PDF/ETD34.pdf
+$ENDCMP
+#
+$CMP АСЕТ.671342.009
+D Индуктор DC/DC (ВВП7)
+$ENDCMP
+#
+$CMP АСЕТ.671342.010
+D Gate Drive Transformer (ВВП7)
+K GDT
+F W:/PDF/EFD15.pdf
+$ENDCMP
+#
+$CMP АСЕТ.671342.011
+D Трансформатор измерительный (ВВП7)
+$ENDCMP
+#
+$CMP ТП-121-1
+D Трансформатор с одной выходной обмоткой
+$ENDCMP
+#
+#End Doc Library
