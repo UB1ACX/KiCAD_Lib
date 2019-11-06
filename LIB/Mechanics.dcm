@@ -1,0 +1,32 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Base_Hole_D3
+D Базовые отверстия ПП
+$ENDCMP
+#
+$CMP EMC_Contact_160
+D Площадка для контакта с направляющей блока
+$ENDCMP
+#
+$CMP EUM_Panel_3U
+D Крепежные отверстия и контактные площадки лицевой панели
+$ENDCMP
+#
+$CMP Light_Pipe_5151230F
+D Световод на 4 индикатора
+F W:/PDF/Dialight_5151230F.pdf
+$ENDCMP
+#
+$CMP Ref_Point
+D Опорные маркеры для автоматического монтажа
+$ENDCMP
+#
+$CMP TH_M2.5
+D Control point
+$ENDCMP
+#
+$CMP TH_M3.5
+D Крепежное отверстие D3,5
+$ENDCMP
+#
+#End Doc Library
