@@ -1,0 +1,161 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4148WS
+D Диод импульсный
+K Diode
+F W:/PDF/1N4148WS.pdf
+$ENDCMP
+#
+$CMP BAV70
+D High-speed switching double diode with common cathode
+F W:/PDF/BAV70.pdf
+$ENDCMP
+#
+$CMP BZX384Cxxx
+D Стабилитрон
+K Zener, stabilitron
+F W:/PDF/BZX384.pdf
+$ENDCMP
+#
+$CMP Diode
+D Диод
+K Diode
+$ENDCMP
+#
+$CMP DiodeBridge
+D Диодный мост
+K Diode Bridge
+$ENDCMP
+#
+$CMP GBU8x
+D Диодный мост
+K Diode Bridge
+F W:/PDF/GBU8x.pdf
+$ENDCMP
+#
+$CMP GSOTxxC
+D Two-line ESD protection
+F W:/PDF/GSOTxxC.pdf
+$ENDCMP
+#
+$CMP LL4148
+D Диод импульсный
+K Diode
+F W:/PDF/LL4148.pdf
+$ENDCMP
+#
+$CMP LM285-ADJ
+D Стабилитрон
+F W:/PDF/LM385-ADJ.pdf
+$ENDCMP
+#
+$CMP LM285M
+D Стабилитрон
+F W:/PDF/LM385-ADJ.pdf
+$ENDCMP
+#
+$CMP PESD15VL2BT
+D Double bidirectional ESD protection diodes
+F W:/PDF/PESDXL2BT.pdf
+$ENDCMP
+#
+$CMP PESD1CAN
+D Диод защитный
+K ESD, protection diode, CAN
+F W:/PDF/PESD1CAN.pdf
+$ENDCMP
+#
+$CMP PESD3V3U1UA
+D Диод защитный
+K ESD, protection diode
+F W:/PDF/PESD3V3U1U.pdf
+$ENDCMP
+#
+$CMP PESD5V0S1UA
+D Диод защитный
+K ESD, protection diode
+F W:/PDF/PESD5V0S1UA_PESD12VS1UA.pdf
+$ENDCMP
+#
+$CMP RClamp0502a
+D Диод защитный
+K ESD, protection diode, USB, Ethernet
+F W:/PDF/RClamp0502a.pdf
+$ENDCMP
+#
+$CMP SDC15.TCx
+D Диод защитный
+K ESD, protection diode, RS-232
+F W:/PDF/SDC15.pdf
+$ENDCMP
+#
+$CMP SM6TxxCA
+D Стабилитрон
+K Zener, stabilitron
+F W:/PDF/SM6T_ST.pdf
+$ENDCMP
+#
+$CMP SMBJxx
+D Защитный диод
+K suppressor TVS
+F W:/PDF/SMBJ5.0-188A.pdf
+$ENDCMP
+#
+$CMP STTH3R06x
+D Диод UltraFast
+K Diode
+F W:/PDF/STTH3R06.PDF
+$ENDCMP
+#
+$CMP Stabilitron
+D Стабилитрон
+K Zener, stabilitron
+$ENDCMP
+#
+$CMP TDZxxxJ
+D Стабилитрон
+K Zener, stabilitron
+F W:/PDF/TDZxJ.pdf
+$ENDCMP
+#
+$CMP TL431AIDBZR
+D Стабилитрон
+K TL431, TLV431, стабилитрон
+F W:/PDF/TL431.pdf
+$ENDCMP
+#
+$CMP TLV431AIDBZR
+D Стабилитрон
+K TL431, TLV431, стабилитрон
+F W:/PDF/TLV431.pdf
+$ENDCMP
+#
+$CMP US1x
+D Ultrafast Rectifier
+K Diode
+F W:/PDF/US1x.pdf
+$ENDCMP
+#
+$CMP VS-30BQ060-M3
+D Диод Шоттки
+K Diode
+F W:/PDF/VS-30BQ060-M3.pdf
+$ENDCMP
+#
+$CMP КД227xC2
+D Диод выпрямительный
+K Diode
+$ENDCMP
+#
+$CMP КД510А
+D Диод импульсный
+K Diode
+$ENDCMP
+#
+$CMP КЦ405
+D Диодный мост
+K Diode Bridge
+F W:/PDF/КЦ402_КЦ405.pdf
+$ENDCMP
+#
+#End Doc Library
