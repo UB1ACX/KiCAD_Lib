@@ -1,0 +1,193 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1759547-1
+D MO-300 mSATA connector
+K PCIe mini 52 pin M.2 NGFF
+F W:/PDF/1759547.pdf
+$ENDCMP
+#
+$CMP 502702-0891
+D microSD card connector 10 pin
+F W:/PDF/502702-0891.pdf
+$ENDCMP
+#
+$CMP 52584-0579
+D Connector 2x25 1.0 mm female
+F W:/PDF/52584-xx79.pdf
+$ENDCMP
+#
+$CMP 52584-0679
+D Connector 2x25 1.0 mm female
+F W:/PDF/52584-xx79.pdf
+$ENDCMP
+#
+$CMP 53408-0579
+D Connector 2x25 1.0 mm male
+F W:/PDF/53408-0579.pdf
+$ENDCMP
+#
+$CMP 53408-0679
+D Connector 2x25 1.0 mm male
+F W:/PDF/53408-xx79.pdf
+$ENDCMP
+#
+$CMP 71436-0x64
+D Connector 2x32 1.0 mm male
+K connector, IEEE1386, 2x32, male, plug
+F W:\PDF\71439-0x64.PDF
+$ENDCMP
+#
+$CMP 71439-0x64
+D Connector 2x32 1.0 mm female
+K connector, IEEE1386, 2x32, female, receptacle
+F W:\PDF\71439-0x64.PDF
+$ENDCMP
+#
+$CMP Connector3x32
+D Connector 3x32
+K DIN41612
+$ENDCMP
+#
+$CMP DIN41612-C064MS-C1A-x
+D Connector 2x32, male
+K DIN41612, male, 2x32
+F W:/PDF/DIN41612-B_2B_3B_C_2C_3C_male.PDF
+$ENDCMP
+#
+$CMP DIN41612-C096MS-C1A-x
+D Connector 3x32, male
+K DIN41612
+F W:/PDF/DIN41612-B_2B_3B_C_2C_3C_male.pdf
+$ENDCMP
+#
+$CMP DIN41612-H015MS-C1A-x
+D Connector 15 pins, male
+K DIN41612, male, 15 pin
+$ENDCMP
+#
+$CMP DS1011-10SxxBx
+D Вилка 10 контактов на плату c защелками
+K SCM-10
+F W:/PDF/DS1011.pdf
+$ENDCMP
+#
+$CMP DS1013-10S
+D Вилка 10 контактов на плату
+K BH-10
+F W:/PDF/DS1013.pdf
+$ENDCMP
+#
+$CMP DS1013-10Sxxxx
+D Вилка 10 контактов на плату
+K BH-10
+F W:/PDF/DS1013.pdf
+$ENDCMP
+#
+$CMP DS1091-xxxx
+D DVI pcb connector
+F W:/PDF/DS1091.pdf
+$ENDCMP
+#
+$CMP DS1095-01-xxxx
+D Розетка USB-A угловая на плату
+F W:/PDF/DS1095-01.pdf
+$ENDCMP
+#
+$CMP DS1099-xxx-x
+D Соединитель USB тип B угловой
+K connector, usb
+F W:/PDF/DS1099.pdf
+$ENDCMP
+#
+$CMP EMC_line
+D Площадка для контакта с направляющей блока
+$ENDCMP
+#
+$CMP FrontPanelPin
+D Крепежное отверстие и контактная площадка лицевой панели
+$ENDCMP
+#
+$CMP HR911105A
+D Соединитель RJ-45
+K connector, ethernet, EIA/TIA 586B
+F W:/PDF/HR911105A.PDF
+$ENDCMP
+#
+$CMP IEEE1386_64pin_plug
+D Connector 2x32 1.0 mm male
+K connector, IEEE1386, 2x32, male, plug
+$ENDCMP
+#
+$CMP IEEE1386_64pin_recept
+D Connector 2x32 1.0 mm female
+K connector, IEEE1386, 2x32, female, receptacle
+$ENDCMP
+#
+$CMP J8064D628ANL
+D Соединитель 1x2 RJ-45
+K connector, ethernet, EIA/TIA 586B
+F W:/PDF/J8064D.PDF
+$ENDCMP
+#
+$CMP JXG0-0129NL
+D RJ-45 2x1 port 1000Mb/s ethernet module
+F W:/PDF/JXG0-0129NL.pdf
+$ENDCMP
+#
+$CMP RJ45+2LED
+D Соединитель RJ-45
+K connector, ethernet, EIA/TIA 586B
+$ENDCMP
+#
+$CMP SMARC2v00_MM70-314-310B
+D SMARC 2.00 pcb connector
+F W:/PDF/MM70-314-310B.pdf
+$ENDCMP
+#
+$CMP SMARC_2v00_groups
+F W:/PDF/MM70-314-310B.pdf
+$ENDCMP
+#
+$CMP TE_63951-1
+D FASTON 6,3 мм на плату угловой
+F W:/PDF/TE_63951.pdf
+$ENDCMP
+#
+$CMP TYCO_120521
+D Connector 2x32 1.0 mm female
+K connector, 2x32, female
+F W:\PDF\TY_120521.pdf
+$ENDCMP
+#
+$CMP TYCO_120527
+D Connector 2x32 1.0 mm male
+K connector, 2x32, male
+F W:\PDF\TY_120527.pdf
+$ENDCMP
+#
+$CMP USB-A
+D Соединитель USB тип A
+K connector, usb
+$ENDCMP
+#
+$CMP USB-B
+D Соединитель USB тип B
+K connector, usb
+$ENDCMP
+#
+$CMP Wago_236-403
+D PCB terminal block
+F W:/PDF/Wago_236-403.pdf
+$ENDCMP
+#
+$CMP СКПП-2,5-5У-3х2-3
+D Соединитель клеммный на плату
+K Wago
+$ENDCMP
+#
+$CMP СКПП-2,5-5У-6х2-3
+D Соединитель клеммный на плату
+K Wago
+$ENDCMP
+#
+#End Doc Library
