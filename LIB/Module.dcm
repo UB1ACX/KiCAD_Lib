@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AM3T-xxxxS-NZ
+D DC/DC converter 3W
+F W:/PDF/AM3T-NZ.pdf
+$ENDCMP
+#
+$CMP PBB7
+D Модуль РВВ7
+$ENDCMP
+#
+#End Doc Library
